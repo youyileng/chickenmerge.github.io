@@ -1,0 +1,38 @@
+========================================
+Chicken Merge GitHub Pages 快速指南
+========================================
+
+✅ 已完成：
+-----------
+1. 创建了完整的静态网站（主页 + 隐私政策）
+2. 展示了4张游戏截图
+3. 代码已推送到GitHub
+
+🔧 下一步操作（需要你手动完成）：
+----------------------------------
+1. 访问: https://github.com/youyileng/chickenmerge.github.io
+2. 点击 Settings（设置）
+3. 点击左侧的 Pages
+4. 在 Source 下选择:
+   - Branch: main
+   - Folder: / (root)
+5. 点击 Save（保存）
+6. 等待1-3分钟
+
+📱 网站地址（部署后）：
+-----------------------
+主页: https://youyileng.github.io/chickenmerge.github.io/
+隐私政策: https://youyileng.github.io/chickenmerge.github.io/privacy-policy.html
+
+🎮 Google Play 使用：
+---------------------
+在Google Play Console中填写隐私政策URL:
+https://youyileng.github.io/chickenmerge.github.io/privacy-policy.html
+
+📧 注意事项：
+-------------
+- 网站中的联系邮箱是 support@chickenmerge.com
+- 如需修改，请编辑 index.html 和 privacy-policy.html
+- 修改后记得 git add, git commit, git push
+
+详细说明请查看 DEPLOYMENT.md 文件
